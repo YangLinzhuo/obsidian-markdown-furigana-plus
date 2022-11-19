@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-markdown-furigana",
-	"name": "Markdown Furigana",
+	"id": "obsidian-markdown-furigana-plus",
+	"name": "Markdown Furigana Plus",
 	"version": "1.2.3",
 	"minAppVersion": "0.9.12",
 	"description": "Simple Markdown to Furigana Rendering Plugin for Obsidian.",
-	"author": "Steven Kraft",
-	"authorUrl": "https://github.com/steven-kraft/obsidian-markdown-furigana",
+	"author": "YangLinzhuo",
+	"authorUrl": "https://github.com/YangLinzhuo/obsidian-markdown-furigana",
 	"isDesktopOnly": false
 }
