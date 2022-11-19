@@ -323,7 +323,6 @@ const convertFuriganaPlus = (element:Text): Node => {
     // match[1] is body
     // match[2] is toptext
     const content = furigana(match[1], match[2])
-    console.table(content)
     // content is an array of array
     // [[text, topmark], [text, topmark]]
     const rubyNode = document.createElement('ruby')
