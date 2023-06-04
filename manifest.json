@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-markdown-furigana-plus",
-	"name": "Markdown Furigana Plus",
+	"id": "obsidian-markdown-shoka",
+	"name": "Markdown Shoka",
 	"version": "1.2.3",
 	"minAppVersion": "0.9.12",
-	"description": "Simple Markdown to Furigana Rendering Plugin for Obsidian.",
+	"description": "Hexo Shoka Theme Enhanced Markdown Rendering Plugin for Obsidian.",
 	"author": "YangLinzhuo",
 	"authorUrl": "https://github.com/YangLinzhuo/obsidian-markdown-furigana",
 	"isDesktopOnly": false
